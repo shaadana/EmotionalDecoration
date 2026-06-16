@@ -1,4 +1,4 @@
-# EmotionalDecoration
+# EmotionalDecoration - Version 1
 A simple project that changes the look of the UI depending on the expression of the user in the camera. 
 # Sample Photos
 Done with the slider rather than the webcam for privacy purposes. 
